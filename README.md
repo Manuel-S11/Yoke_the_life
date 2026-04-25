@@ -89,7 +89,7 @@ If you are the copyright owner and want content removed or credited, please cont
 
 **Manuel**
 Computer Science Student
-Aspiring AI Developer
+Aspiring Data Engineer
 
 ---
 
