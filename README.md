@@ -47,7 +47,7 @@ The 28 figures are structured into six groups:
 
 ## Project Structure
 
-/images
+/image
   /puppets
   /puppeteers
 
